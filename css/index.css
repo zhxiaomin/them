@@ -1,0 +1,49 @@
+body{background-color: #F1F1F1;height: 2000px;}
+.top{height: 40px;border-bottom:1px solid #E8E8E8;line-height: 40px;font-size: 14px;background-color: #fff;}
+.top .box .right a{float:left;display:block;height:40px;padding: 0 18px;border-right: 1px solid #E8E8E8;line-height: 40px;}
+.top .box .right .spe{border-right: none;}
+.header{height: 75px;padding: 14px 0;box-sizing: border-box;background-color: #fff;}
+.header .logo{width: 171px;height: 50px;}
+.header .search{width: 400px;height: 38px;overflow: hidden;border-radius:5px;margin-left: 140px;border:1px solid #F60100;}
+.header .search .one{width: 348px;height: 38px;overflow: hidden;  padding-left: 40px;box-sizing: border-box;}
+.header .search .btn{width: 52px;height: 38px;background-color: #F60100;}
+.header .txt{display:block;width: 68px;height: 38px;border: 1px solid #E8E8E8;margin-left: 10px;text-align: center;border-radius:5px;}
+.header .mynew{width: 123px;height: 38px;background-color: #F60100;border-radius: 5px;line-height: 38px;text-align: center;color:#fff;}
+.header .more{margin-left: 138px;margin-top: 5px;}
+.header .more a{margin-right: 5px;}
+
+
+.nav{height: 30px;background-color: #fff;padding-top: 25px;}
+.nav a{color: #666;font-size: 16px;padding: 0 46px;border-right: 1px solid #CACACA;}
+.nav .spe{border-right: none;}
+
+.banner{height: 394px;background-color: #fff;overflow: hidden;border-bottom: 1px solid #E7E7E7; margin-bottom: 15px;}
+.banner .banner-t{width: 1920px;height: 300px;background: url(../images/banner1.jpg) center center;background-position: center center;}
+// .banner .banner-t img{display:block;height: 300px;width: 1920px;}
+
+
+.banner .banner-b{height: 94px;padding-top: 22px;padding-left: 30px;}
+.banner .banner-b .left{margin-right: 15px;}
+.banner .banner-b .left a{width: 50px;height: 50px;display:block;background: url(../images/menu.jpg)}
+.banner .banner-b .menu{width: 248px;}
+.banner .right a{display: block;}
+.banner .banner-b .txt1{font-size: 24px;margin:2px 0 14px 0;}
+.banner .txt2{font-size: 18px;}
+
+.banner .banner-b .menu2 .left a{background-position: 0 -48px;}
+.banner .banner-b .menu3 .left a{background-position: 0 -100px;}
+.banner .banner-b .menu4 .left a{background-position: 0 -150px;}
+
+.content .list1{height: 276px;background-color: white;border: 1px solid #E7E7E7;margin-bottom: 15px;}
+.content .list1 .menu{width: 332px;height: 276px; red;border-right: 1px solid #E7E7E7;padding-top: 30px;box-sizing: border-box;text-align: center;}
+.content .list1 .spe{border-right: none;}
+.content .list1 .txt{font-size: 18px;color: #666;}
+.content .list1 .menu .btn{margin-top: 12px;margin-bottom: 22px;}
+.content .list1 .menu button{width: 94px;height: 24px;border: 1px solid #48A9F0;background-color: #fff;border-radius: 5px;color: #48A9F0;}
+.content .list1 .menu .btn1{margin-right: 30px;}
+.content .list1 .menu .col-red{font-size: 40px;display: inline-block;margin-bottom: 16px;}
+.content .list1 .menu .p1{height: 26px;color: #282828;font-weight: 700;}
+.content .list1 .menu .p2{height: 20px;color: #838383;}
+.content .list1 .menu .col-red span{font-size: 16px;}
+.content .list1 .menu .btn2{width: 210px;height: 42px;background-color: #E80505;border: none;color: #fff;}
+.content .list2{height: 410px; background-color: #fff;border: 1px solid #E7E7E7;}
